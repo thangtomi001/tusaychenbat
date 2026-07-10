@@ -1,0 +1,8 @@
+{
+  "name": "ZTP Dish Dryer Cabinet",
+  "description": "Premium E-commerce Landing Page for ZTP Dish Dryer Cabinet, featuring family and industrial models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
